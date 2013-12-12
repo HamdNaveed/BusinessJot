@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/html">
+<head>
+    <title></title>
+</head>
+<body>
+
+
+<meta http-equiv="refresh" content="9">
+<link rel="icon" type="image/x-icon" href="favicon.ico">
+
+<a href="about.html"> About us</a>
+
+<nav>
+
+    <a href="index.html">Home</a>
+    <a href="about.html">about us</a>
+    <a href="portfolio.html">portfolio</a>
+    <a href="Contact%20Us.html.html">contact us</a>
+    <a href="Services.html">services</a>
+
+
+
+</nav>
+
+
+
+<hr/>
+<marquee><h1>Iqra University</h1></marquee>
+<marquee behavior="alternate">Iqra University</marquee>
+<marquee behavior="alternate" direction="right">Iqra University</marquee>
+<marquee behavior="alternate" direction="left">Iqra University</marquee>
+<marquee behavior="alternate" direction="right">Iqra University</marquee>
+<marquee behavior="alternate" direction="left">Iqra University</marquee>
+<marquee behavior="alternate" direction="right">Iqra University</marquee>
+<marquee onMouseOver="this.stop()" onMouseOut="this.start()" behavior="alternate" direction="l  eft">Iqra University</marquee>
+<d1>
+    <dt>Coffee</dt>
+    <dd>Cold Coffe</dd>
+    <dd>Hot Coffe</dd>
+    <dt>Cold Drink</dt>
+    <dt>Tea</dt>
+</d1>
+<ol>
+    -->
+    <li>Home</li>
+    <li>About Us</li>
+    <li>Portfolio</li>
+    <li>Contact</li>
+</ol>
+<p>Do <mark>not</mark> forget</p>
+<p>Price <del>17000rs</del><ins>14000rs</ins></p>
+<p>Today Date<sub>  19-12-2012</sub></p>
+<p>Today is Date 28<sup>th</sup></p>
+<center><p><h1>Welcome to Babji ki Coding </h1></p></center>
+<center><p><h1>Welcome to Babji ki Coding </h1></p></center>
+<center><p><h1>Welcome to Babji ki Coding </h1></p></center>
+<center><p><h1>Welcome to Babji ki Coding </h1></p></center>
+<center><p><h1>Welcome to Babji ki Coding </h1></p></center>
+<center><p><h1>Welcome to Babji ki Coding </h1></p></center>
+
+<center><p><font color="blue" font size="10">Font Color</font></p></center>
+<center><img src="images" width="300" height="300" alt="Image"></center>
+<center><p> Column 1                    Column 2                            Column 3</p></center>
+<center><p> Column 1                    Column 2                            Column 3</p></center>
+<center><p> Column 1                    Column 2                            Column 3</p></center>
+<table width="100%" border="1">
+    <tr>
+        <td colspan="4">ok hai bhai</td>
+
+    </tr>
+    <td>Col 1</td>
+    <td>Col 2</td>
+    <td>Col 2</td>
+    <td>Col 2</td>
+    </tr>
+
+    <tr>
+
+        <td>col 3</td>
+        <td>col 4</td>
+        <td>Col 2</td>
+        <td>Col 2</td>
+    </tr>
+
+    <tr>
+        <td>Row 1</td>
+        <td>Row 2</td>
+        <td>Row 3</td>
+        <td>Row 4</td>
+    </tr>
+
+    <tr>
+        <td>col 3</td>
+        <td>col 4</td>
+        <td>Col 2</td>
+        <td>Col 2</td>
+    </tr>
+</table>
+
+
+<hr/>
+
+<footer>
+
+    &copy; All Right Reserved
+    &reg;
+</footer>
+
+<select>
+
+    <option value="BMW">bmw </option>
+    <option value="Lambo"> Lambo</option>
+    <option value="Chinghi">Chinghi </option>
+
+
+
+</select>
+
+<input list="browser" name="browser">
+<datalist id="browser">
+    <option value="Google"></option>
+    <option value="Facebook"></option>
+</datalist>
+<progress value="50" max="100">
+
+</progress>
+</body>
+</html>
